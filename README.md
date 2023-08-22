@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning DSA
 <!--
 **theri6v/theri6v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
