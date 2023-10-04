@@ -20,6 +20,16 @@ Feel free to reach out to me:
 - Email: [rbsrishav25@gmail.com](mailto:rbsrishav25@gmail.com)
 - LinkedIn: [linkedin.com/in/rishavwalde](https://www.linkedin.com/in/rishavwalde/)
 
+<div align="center">
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+</div>
+
+
 ---
 
 Thanks for visiting my GitHub profile! Don't hesitate to connect or explore my projects. Happy coding! 🚀
