@@ -13,9 +13,6 @@
 - 👯 I’m looking to collaborate on Quantum Machine Learning
 - 🤔 I’m looking for help with Deep Reinforcement learning
 
-## 📫 Contact
-
-Feel free to reach out to me:
 
 <div align="center">
   <a href="mailto:rbsrishav25@gmail.com">
