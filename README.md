@@ -21,7 +21,7 @@
 
 Feel free to reach out to me:
 
-- Email: [Gmail.com](mailto:rbsrishav25@gmail.com)
+- Email: [rbsrishav25@gmail.com](mailto:rbsrishav25@gmail.com)
 - LinkedIn: [linkedin.com/in/rishavwalde](https://www.linkedin.com/in/rishavwalde/)
 
 ---
