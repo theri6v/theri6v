@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&pause=1000&width=435&lines=I+RISHAV+WALDE;A+DATA+SCIENTIST;A+DATA+ANALYST;A+ML+RESEARCHER;A++C%2B%2B+DEVELOPER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&pause=1000&width=435&lines=HELLO+WORLD!!+I+RISHAV+WALDE;A+DATA+SCIENTIST;A+DATA+ANALYST;A+ML+RESEARCHER;A++C%2B%2B+DEVELOPER)](https://git.io/typing-svg)
 
-<h1 align="center">🚀 Hello, World! I'm Rishav Walde 🚀</h1>
 
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate Data Scientist who loves to develop and research. Here, you'll find an assortment of my open-source projects, coding experiments, and more. Feel free to explore and collaborate!
