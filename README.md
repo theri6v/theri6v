@@ -7,15 +7,11 @@
 
 ---
 
-## 🔧 Skills & Tools
-
-- **Languages**: Python, C++
-- **Web Development**: HTML, CSS
-- **Database**: MongoDB, MySQL
-- **DevOps**: Docker, Jenkins
-- **Tools**: VS Code, Git, GitHub
-
----
+- 🔭 I’m currently working on a Python Development Environment 
+- 🌱 I’m currently learning and Working On Generative AI
+- 💬 Ask me about Anything Related to Work Post here
+- 👯 I’m looking to collaborate on Quantum Machine Learning
+- 🤔 I’m looking for help with Deep Reinforcement learning
 
 ## 📫 Contact
 
@@ -28,11 +24,5 @@ Feel free to reach out to me:
 
 Thanks for visiting my GitHub profile! Don't hesitate to connect or explore my projects. Happy coding! 🚀
 
-
-- 🔭 I’m currently working on a Python Development Environment 
-- 🌱 I’m currently learning and Working On Generative AI
-- 💬 Ask me about Anything Related to Work Post here
-- 👯 I’m looking to collaborate on Quantum Machine Learning
-- 🤔 I’m looking for help with Deep Reinforcement learning
 <!--
 **theri6v/theri6v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
