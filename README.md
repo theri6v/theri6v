@@ -24,8 +24,6 @@
 </div>
 
 
----
-
 Thanks for visiting my GitHub profile! Don't hesitate to connect or explore my projects. Happy coding! 🚀
 
 <!--
